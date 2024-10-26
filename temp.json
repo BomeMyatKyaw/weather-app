@@ -1,0 +1,124 @@
+{
+  "forecastday": [
+    {
+      "date": "2024-10-26",
+      "date_epoch": 1729900800,
+      "day": {
+        "maxtemp_c": 12.2,
+        "maxtemp_f": 53.9,
+        "mintemp_c": 7.6,
+        "mintemp_f": 45.6,
+        "avgtemp_c": 10.1,
+        "avgtemp_f": 50.1,
+        "maxwind_mph": 10.5,
+        "maxwind_kph": 16.9,
+        "totalprecip_mm": 0.35,
+        "totalprecip_in": 0.01,
+        "totalsnow_cm": 0,
+        "avgvis_km": 10,
+        "avgvis_miles": 6,
+        "avghumidity": 72,
+        "daily_will_it_rain": 1,
+        "daily_chance_of_rain": 89,
+        "daily_will_it_snow": 0,
+        "daily_chance_of_snow": 0,
+        "condition": {
+          "text": "Patchy rain nearby",
+          "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+          "code": 1063
+        },
+        "uv": 3
+      },
+      "astro": {
+        "sunrise": "07:44 AM",
+        "sunset": "05:44 PM",
+        "moonrise": "12:50 AM",
+        "moonset": "04:05 PM",
+        "moon_phase": "Waning Crescent",
+        "moon_illumination": 34,
+        "is_moon_up": 1,
+        "is_sun_up": 0
+      }
+    },
+    {
+      "date": "2024-10-27",
+      "date_epoch": 1729987200,
+      "day": {
+        "maxtemp_c": 14.4,
+        "maxtemp_f": 57.9,
+        "mintemp_c": 11.5,
+        "mintemp_f": 52.6,
+        "avgtemp_c": 12.6,
+        "avgtemp_f": 54.6,
+        "maxwind_mph": 10.7,
+        "maxwind_kph": 17.3,
+        "totalprecip_mm": 0.22,
+        "totalprecip_in": 0.01,
+        "totalsnow_cm": 0,
+        "avgvis_km": 10,
+        "avgvis_miles": 6,
+        "avghumidity": 89,
+        "daily_will_it_rain": 1,
+        "daily_chance_of_rain": 89,
+        "daily_will_it_snow": 0,
+        "daily_chance_of_snow": 0,
+        "condition": {
+          "text": "Patchy rain nearby",
+          "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+          "code": 1063
+        },
+        "uv": 3
+      },
+      "astro": {
+        "sunrise": "07:46 AM",
+        "sunset": "05:42 PM",
+        "moonrise": "02:04 AM",
+        "moonset": "04:16 PM",
+        "moon_phase": "Waning Crescent",
+        "moon_illumination": 25,
+        "is_moon_up": 0,
+        "is_sun_up": 0
+      }
+    },
+    {
+      "date": "2024-10-28",
+      "date_epoch": 1730073600,
+      "day": {
+        "maxtemp_c": 16.6,
+        "maxtemp_f": 61.8,
+        "mintemp_c": 13.5,
+        "mintemp_f": 56.4,
+        "avgtemp_c": 14.7,
+        "avgtemp_f": 58.5,
+        "maxwind_mph": 8.1,
+        "maxwind_kph": 13,
+        "totalprecip_mm": 0,
+        "totalprecip_in": 0,
+        "totalsnow_cm": 0,
+        "avgvis_km": 8,
+        "avgvis_miles": 4,
+        "avghumidity": 87,
+        "daily_will_it_rain": 0,
+        "daily_chance_of_rain": 0,
+        "daily_will_it_snow": 0,
+        "daily_chance_of_snow": 0,
+        "condition": {
+          "text": "Overcast ",
+          "icon": "//cdn.weatherapi.com/weather/64x64/day/122.png",
+          "code": 1009
+        },
+        "uv": 3
+      },
+      "astro": {
+        "sunrise": "06:48 AM",
+        "sunset": "04:40 PM",
+        "moonrise": "02:15 AM",
+        "moonset": "03:27 PM",
+        "moon_phase": "Waning Crescent",
+        "moon_illumination": 17,
+        "is_moon_up": 0,
+        "is_sun_up": 0
+      }
+    }
+  ]
+}
